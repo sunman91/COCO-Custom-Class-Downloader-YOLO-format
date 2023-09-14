@@ -1,0 +1,6 @@
+Person
+Bicycle
+Car
+Motorcycle
+Bus
+Truck
